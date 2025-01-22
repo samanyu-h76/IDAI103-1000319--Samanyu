@@ -1,7 +1,3 @@
-Here’s a detailed README file based on the project description, your provided code, and the specifications outlined in the PDF:
-
----
-
 # Generative AI-Based Fashion Recommender System
 
 ## Project Overview
