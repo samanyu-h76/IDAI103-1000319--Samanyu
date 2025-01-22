@@ -97,8 +97,7 @@ This project leverages Google's Gemini 1.5 Pro API to create a personalized fash
 
 ## Repository Structure
 - **Code Files**: 
-  - `fashion_recommender.py`: Main script for generating fashion recommendations.
-- **Resources**: Links to relevant documentation and studies.
+  - `fashion_recommender_code.py`: Main script for generating fashion recommendations.
 - **Screenshots**: Demonstrations of the application and model outputs.
 - **README**: This file.
 
