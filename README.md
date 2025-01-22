@@ -110,3 +110,9 @@ This project leverages Google's Gemini 1.5 Pro API to create a personalized fash
 3. Deploy the model as a web application for real-time public access.
 
 ---
+
+## Screenshots
+![Screenshot 2025-01-20 092206](https://github.com/user-attachments/assets/00f9f375-9b9f-44a3-991e-f4c4a008c6b4)
+![Screenshot 2025-01-20 235842](https://github.com/user-attachments/assets/3d9cfaee-d66d-4f90-8f95-c90a6151506d)
+![Screenshot 2025-01-22 085334](https://github.com/user-attachments/assets/dc3d44f5-7a9d-4ae3-bbc2-b57e72eccdc4)
+
